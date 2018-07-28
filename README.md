@@ -1,1 +1,2 @@
 THIS IS THE FIRST REPO MADE BY LEARNING GITHUB
+这是一个用来记录学习过程的git仓库
