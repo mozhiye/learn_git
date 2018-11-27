@@ -15,6 +15,8 @@ int main()
 {
     u32 head;
     head = b;
+    int a = b;
+    b = a + b;
     return 0;
 _end:
     open;
